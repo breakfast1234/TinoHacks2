@@ -21,6 +21,7 @@ animations = [ {
 "name": "up",
 "speed": 5.0
 }, {
+
 "frames": [ ExtResource( 5 ) ],
 "loop": true,
 "name": "death",
@@ -32,13 +33,14 @@ animations = [ {
 "speed": 5.0
 }, {
 "frames": [ ExtResource( 8 ), ExtResource( 9 ) ],
+
 "loop": false,
 "name": "fall_down",
 "speed": 5.0
 }, {
 "frames": [ ExtResource( 10 ), ExtResource( 11 ) ],
 "loop": true,
-"name": "taunt",
+"name": "death",
 "speed": 5.0
 } ]
 _sections_unfolded = [ "Resource" ]
